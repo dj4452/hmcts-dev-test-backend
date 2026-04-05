@@ -10,9 +10,8 @@ There is an example endpoint provided to retrieve an example of a case. You are 
 wish.
 
 
-This Fork involes changes 
+This Fork involes changes for Task Management Module
 
-Task Management Module (Added in this fork)
 1. Create, read, update, delete tasks.
 2.H2 in‑memory database.
 3.JPA/Hibernate entity mapping.
